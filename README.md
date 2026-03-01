@@ -1,4 +1,4 @@
-** UDIA Hackathon 2026 **
+## UDIA Hackathon 2026 
 ## Aadhaar Analysis: A Multi-DimensionalAnalysis of Enrollment Maturity and Maintenance Demand
 ## Our Solution: The Operational Stress Mapping Framework
 Our project introduces a new way to manage Aadhaar operations. Instead of just counting
@@ -12,7 +12,7 @@ By analyzing the Biometric Compliance Funnel, we can predict exactly when a wave
 teenagers will need biometric refreshes in a specific district. This allows the UIDAI to move
 from Reactive Fixing to Proactive Resource Deployment.
 
-** Goal **
+# Goal 
 To ensure that no citizen is denied a service simply because the system was too stressed to
 process their update.
 
